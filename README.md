@@ -1,5 +1,5 @@
 # ReactMeals
-ReactMeals is a simple food ordering app created with ReactJS
+Practice project for learning ReactJS.
 
 to run the project:
 ```
